@@ -1,0 +1,18 @@
+Thank you for signing up for an Android Maps API key!
+
+Your key is:
+
+0pyry8YS0pqBo_0li4c9uLNSiNNilpq7KoY0VIQ
+
+This key is good for all apps signed with your certificate whose fingerprint is:
+
+B8:84:63:23:0F:2A:2E:0B:4C:72:5A:DE:5E:44:D2:21
+
+Here is an example xml layout to get you started on your way to mapping glory:
+
+	  <com.google.android.maps.MapView
+		 android:layout_width="fill_parent"
+		 android:layout_height="fill_parent"
+		 android:apiKey="0pyry8YS0pqBo_0li4c9uLNSiNNilpq7KoY0VIQ"
+		 />
+

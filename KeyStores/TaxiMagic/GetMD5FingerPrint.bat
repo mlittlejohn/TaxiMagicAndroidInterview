@@ -1,0 +1,1 @@
+keytool -list -alias alias_taximagic -keystore taximagic-release-key.keystore

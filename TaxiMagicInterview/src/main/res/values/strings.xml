@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Taxi Magic Interview</string>
+    <string name="action_settings">Settings</string>
+    <string name="debugapikey">AIzaSyAIGtOSro-lNW8Npp7rvC5N3rfbwKQ5eaA</string>
+
+</resources>
